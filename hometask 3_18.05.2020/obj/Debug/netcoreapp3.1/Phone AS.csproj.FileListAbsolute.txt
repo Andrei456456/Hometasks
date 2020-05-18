@@ -1,0 +1,13 @@
+E:\WORK\Study\С#\hometask 3_09.05.2020\Phone AS\Phone AS\Phone AS\bin\Debug\netcoreapp3.1\Phone AS.exe
+E:\WORK\Study\С#\hometask 3_09.05.2020\Phone AS\Phone AS\Phone AS\bin\Debug\netcoreapp3.1\Phone AS.deps.json
+E:\WORK\Study\С#\hometask 3_09.05.2020\Phone AS\Phone AS\Phone AS\bin\Debug\netcoreapp3.1\Phone AS.runtimeconfig.json
+E:\WORK\Study\С#\hometask 3_09.05.2020\Phone AS\Phone AS\Phone AS\bin\Debug\netcoreapp3.1\Phone AS.runtimeconfig.dev.json
+E:\WORK\Study\С#\hometask 3_09.05.2020\Phone AS\Phone AS\Phone AS\bin\Debug\netcoreapp3.1\Phone AS.dll
+E:\WORK\Study\С#\hometask 3_09.05.2020\Phone AS\Phone AS\Phone AS\bin\Debug\netcoreapp3.1\Phone AS.pdb
+E:\WORK\Study\С#\hometask 3_09.05.2020\Phone AS\Phone AS\Phone AS\obj\Debug\netcoreapp3.1\Phone AS.csprojAssemblyReference.cache
+E:\WORK\Study\С#\hometask 3_09.05.2020\Phone AS\Phone AS\Phone AS\obj\Debug\netcoreapp3.1\Phone AS.csproj.CoreCompileInputs.cache
+E:\WORK\Study\С#\hometask 3_09.05.2020\Phone AS\Phone AS\Phone AS\obj\Debug\netcoreapp3.1\Phone AS.AssemblyInfoInputs.cache
+E:\WORK\Study\С#\hometask 3_09.05.2020\Phone AS\Phone AS\Phone AS\obj\Debug\netcoreapp3.1\Phone AS.AssemblyInfo.cs
+E:\WORK\Study\С#\hometask 3_09.05.2020\Phone AS\Phone AS\Phone AS\obj\Debug\netcoreapp3.1\Phone AS.dll
+E:\WORK\Study\С#\hometask 3_09.05.2020\Phone AS\Phone AS\Phone AS\obj\Debug\netcoreapp3.1\Phone AS.pdb
+E:\WORK\Study\С#\hometask 3_09.05.2020\Phone AS\Phone AS\Phone AS\obj\Debug\netcoreapp3.1\Phone AS.genruntimeconfig.cache
